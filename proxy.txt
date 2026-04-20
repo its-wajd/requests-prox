@@ -1,0 +1,10 @@
+# Example proxy file - replace with your own proxies
+# One proxy per line
+# host:port
+# host:port:username:password
+# http://host:port
+# https://host:port
+# http://username:password@host:port
+
+# 127.0.0.1:8080
+# 10.0.0.1:3128:user:pass
